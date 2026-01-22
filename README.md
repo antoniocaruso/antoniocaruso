@@ -1,4 +1,11 @@
+## Prof. Antonio Mario Caruso 
+
+I'm a Computer Science Professor at the Department of Mathematics and Physics 'Ennio De Giorgi', University of Salento in Lecce, Puglia, Italy.
+
 ## Hi there 👋
+
+
+
 
 <!--
 **antoniocaruso/antoniocaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
